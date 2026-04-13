@@ -88,7 +88,7 @@ Example prompt states:
 
 ```sh
 # 1. Clone into your oh-my-zsh custom themes directory
-git clone https://github.com/YOUR_USERNAME/atmaram-zsh-theme.git \
+git clone https://github.com/vaikhari-apps/atmaram-zsh-theme.git \
   "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/atmaram-zsh-theme"
 
 # 2. Symlink the theme file
